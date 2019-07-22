@@ -1,2 +1,3 @@
 # spring-jenkins
-#Demo of java projec
+#Demo of java project
+#maven integration with Java project
