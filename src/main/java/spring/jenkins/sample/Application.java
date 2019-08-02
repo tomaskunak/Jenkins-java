@@ -11,8 +11,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
-		System.Out.Println("Spring first example");
-	}
+		}
 	
 	@RequestMapping("/")
 	public String status(){
