@@ -18,4 +18,10 @@ public class Application {
 	public String status(){
 		return "Spring Jenkins is UP";
 	}
+	
+	public void test() {
+		
+		
+		System.out.println("Added fcode for jenkins demo");
+		}
 }
