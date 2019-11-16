@@ -4,9 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>spring-jenkins</groupId>
-	<artifactId>spring.jenkin.sample</artifactId>
+	<artifactId>spring.jenkins.sample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>ja</packaging>
+	<packaging>jar</packaging>
 
 	<name>spring-jenkins</name>
 	<description>Demo project for Spring Boot</description>
