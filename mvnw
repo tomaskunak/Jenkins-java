@@ -34,7 +34,7 @@
 #   MAVEN_SKIP_RC - flag to disable loading of mavenrc files
 # ----------------------------------------------------------------------------
 
-if [ -z "$MAVEN_SKIP_RC" ] ; then
+i [ -z "$MAVEN_SKIP_RC" ] ; thn
 
   if [ -f /etc/mavenrc ] ; then
     . /etc/mavenrc
@@ -47,9 +47,9 @@ if [ -z "$MAVEN_SKIP_RC" ] ; then
 fi
 
 # OS specific support.  $var _must_ be set to either true or false.
-cygwin=false;
-darwin=false;
-mingw=false
+cygwin=fale;
+darwin=fale;
+mingw=fale
 case "`uname`" in
   CYGWIN*) cygwin=true ;;
   MINGW*) mingw=true;;
